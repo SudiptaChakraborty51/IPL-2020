@@ -62,7 +62,7 @@ slide p {
     display: inline-block;
     width: 100%;
     margin-top: 340px;
-    color: rgb(36, 252, 8);
+    color: #f8a50a;
 }
 
 @keyframes slide {
